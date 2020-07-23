@@ -1,0 +1,14 @@
+{
+    "name": "lixia18/redis-study",
+    "description": "redis study",
+    "type": "library",
+    "require": {
+    },
+    "autoload":{
+		"psr-4":{
+		"Lixia18\\Redis\\":""
+		}
+	},
+    "license": "MINT",
+    "minimum-stability": "dev"
+}
